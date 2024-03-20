@@ -13,6 +13,6 @@ Bu depo, Transformer modeli kullanılarak oluşturulmuş bir Türkçe sohbet bot
 ## Kullanım
 
 1. **Depoyu klonlayın:**
-```
+```shell
 git clone https://github.com/EmirhanOzl/transformer-turkish-chatbot.git
 ```
