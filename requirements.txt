@@ -1,5 +1,7 @@
 jupyter
 matplotlib
+tensorflow==2.9.1
 tensorflow-addons==0.17.1
 tensorflow-datasets==4.6.0
+protobuf==3.20.3
 nltk
