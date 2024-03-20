@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 3. **Modeli eğitin:**
 ```shell
-python train.py
+python training.py
 ```
 4. **Chatbotu çalıştırın:**
 ```shell
